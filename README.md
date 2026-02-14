@@ -27,7 +27,8 @@ Gameplay
 
 Capturas / Video
 Menú del juego
- <img width="599" height="337" alt="image" src="https://github.com/user-attachments/assets/641dc882-02c3-4b92-8ec0-a4460827758b" />
+
+<img width="599" height="337" alt="image" src="https://github.com/user-attachments/assets/641dc882-02c3-4b92-8ec0-a4460827758b" />
 
 Partes del escenario en donde se encuentra el personaje principal (Apolo)
 <img width="525" height="295" alt="image" src="https://github.com/user-attachments/assets/4043c9da-80a9-4ded-a567-647c7d832a76" />
