@@ -64,7 +64,11 @@ A medida que avanza, descubren qué ocurrió realmente en el asilo y que su herm
 2. Ejecutar JuegoTerror1.exe`
 3. Disfrutar
 
-Autor
-Mariana Haydee Galindo Perez
+---
+
+##  Autora
+
+**Mariana Galindo Pérez**  
+Ingeniería en Desarrollo y Gestión de Software
 
 
