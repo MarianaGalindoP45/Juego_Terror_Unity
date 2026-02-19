@@ -1,4 +1,4 @@
-#GET OUT (Juego)
+# GET OUT (Juego)
 
 **Descripción**
 
